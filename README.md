@@ -480,18 +480,12 @@ Acest proiect este licențiat sub licența MIT - vezi fișierul [LICENSE](LICENS
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autori
 
-Dezvoltat pentru automatizarea procesului de documentare medicală.
-
----
-
-## 🙏 Mulțumiri
-
-- **Hugging Face** pentru biblioteca Transformers
-- **Google** pentru Speech Recognition API
-- **Flask** pentru framework-ul web lightweight
-- Comunitatea open-source pentru librăriile folosite
+- Carp Andrei-Costin: Anul 2, UPB
+- Darie Vlad: Anul 2, UPB
+- Danet Tudor: Anul 2, UPB
+- Seitan Alexia: Anul 2, UNIBUC
 
 ---
 
